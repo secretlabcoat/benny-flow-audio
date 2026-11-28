@@ -12,6 +12,9 @@ Suno tracks for Benny and the Jets FLOW button.
 - `get-off-my-board.mp3` — Get Off My Board
 - `glasses-to-wear.mp3` — Glasses to Wear
 
+- `yo-benny.mp3` — Yo Benny!
+- `oily-jet-airlines.mp3` — Oily Jet Airlines
+
 ## hold/
 Previous tracks, kept so they can be restored:
 - `games-on-my-phone.mp3`
